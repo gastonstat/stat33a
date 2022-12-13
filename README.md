@@ -27,12 +27,15 @@
     + [Breaking the Ice with R](https://www.gastonsanchez.com/R-ice-breaker)
     + [R Coding Basics](https://www.gastonsanchez.com/R-coding-basics)
     + [Rolling Dice](https://www.gastonsanchez.com/R-rolling-dice)
-    + [Strings](https://www.gastonsanchez.com/R-strings)
+    + [Handling Strings with R](https://leanpub.com/r4strings)
     + [Tidy Hurricanes](https://www.gastonsanchez.com/R-tidy-hurricanes)
     + Prof. Sanchez's slides
 
+- __LMS__: the specific learning resources of a given semester are shared in the Learning Management Sysment (LMS) approved by Campus authorities (e.g. bCourses, Canvas)
+
 
 -----
+
 
 ## 1. Introduction
 
