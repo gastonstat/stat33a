@@ -13,7 +13,7 @@
     + Data input/output
     + The formula language of R (time permitting)
 
-- __Instructor__: Gaston Sanchez
+- __Instructor__: [Gaston Sanchez](https://www.gastonsanchez.com)
 
 - __Lecture__: 1 hour of lecture per week
 
